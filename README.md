@@ -1,7 +1,7 @@
 # Python.101
-  ``` pip install matplotlib
-      pip install pandas
-      pip install numpy ```
+pip install matplotlib
+pip install pandas
+pip install numpy
 # All about NUMPY
 </br>
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
