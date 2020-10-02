@@ -27,3 +27,6 @@ Figure Aesthetics
     Plotting with multiple axis
     Making your charts look less scientific
 
+![alt text](https://cloudxlab.com/blog/wp-content/uploads/2017/12/numpypandasfeatureimage-3.png)
+
+Here You Go : https://cloudxlab.com/blog/numpy-pandas-introduction/
